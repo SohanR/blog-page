@@ -1,0 +1,10 @@
+.full_main{
+    width: 100%;
+    background: #292929;
+}
+
+.main{
+    width: 960px;
+    display: block;
+    margin: 0 auto;
+}
