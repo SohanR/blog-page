@@ -1,0 +1,10 @@
+.full_footer{
+    width: 100%;
+    background: #292929;
+}
+
+.footer{
+    width: 960px;
+    display: block;
+    margin: 0 auto;
+}
