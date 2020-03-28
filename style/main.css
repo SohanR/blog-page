@@ -79,3 +79,10 @@
     margin-top: 10px;
 }
 
+.content #side-bar .sidebar .search_box{
+    color: #737373;
+    border:none;
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 200px;
+}
