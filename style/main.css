@@ -86,3 +86,31 @@
     margin-left: 10px;
     width: 200px;
 }
+
+.content #side-bar .sidebar .email-submit{
+    position: relative;
+    
+    height: 100px;
+
+}
+
+#side-bar .sidebar .email-submit input{
+    color: #737373;
+    border:none;
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 150px;
+    font-weight: bold;
+}
+
+.sidebar .email-submit button{
+    border: none;
+    background-color: white;
+    float: right;
+    margin-top: 25px;
+    margin-right: 0px;
+    margin-bottom: 60px;
+    margin-left: 40px;
+    opacity: 0.3;
+    position: absolute;
+}
