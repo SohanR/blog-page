@@ -57,9 +57,8 @@
 }
 
 .main .content #side-bar .sidebar{
-    margin-bottom: 30px;
+    margin-bottom: 60px;
     overflow: hidden;
-    background-color: 
 }
 
 .content #side-bar .sidebar h2{
@@ -77,5 +76,6 @@
     color: #737373;
     width: 95%;
     margin-left: 10px;
+    margin-top: 10px;
 }
 
