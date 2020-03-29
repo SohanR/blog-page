@@ -1,5 +1,6 @@
 .full_footer{
     width: 100%;
+    background-color: rgb(195, 189, 189);
 }
 
 .footer{
@@ -7,8 +8,8 @@
     display: block;
     margin: 0 auto;
     text-align: center;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .footer h1{
@@ -16,13 +17,13 @@
 }
 
 .footer p{
-    color: #a6a6a6;
+    color: #4e4c4c;
     font-size: 12px;
     padding-top: 10px;
 }
 
 .footer #copyright{
-    color: #a6a6a6;
+    color: #4e4c4c;
 }
 
 .footer .social_logo ul{
@@ -34,3 +35,21 @@
     padding: 10px 20px;
 }
 
+
+.footer .social_logo ul li i{
+    color: #fff !important;
+    background:  #434343;
+    padding: 5px;
+    border-radius: 5px;
+    display: inline-block;
+    border: none;
+    transition: all 0.4s ease 0s;
+}
+
+.footer .social_logo ul li i:hover{
+    background: green;
+    -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
+    transition: all 0.4s ease 0s;
+}
