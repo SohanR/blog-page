@@ -6,4 +6,21 @@
     width: 960px;
     display: block;
     margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.footer h1{
+    color: #292929;
+}
+
+.footer p{
+    color: #a6a6a6;
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.footer #copyright{
+    color: #a6a6a6;
 }
